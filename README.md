@@ -24,6 +24,12 @@ A CSRF vulnerability in the password reset functionality that could allow attack
 
 ---
 
+Session Management Flaw – 2FA Bypass on Pre-Existing Sessions (Snapchat)
+A session management vulnerability where enabling TOTP-based 2FA did not invalidate existing authenticated sessions, allowing password and email changes without re-authentication.
+[View Writeup](https://github.com/suyash9466/writeups/blob/main/Session-Management-Flaw-2FA-Bypass-Snapchat.md)
+
+---
+
 ## Focus Areas
 
 - Authentication Vulnerabilities
