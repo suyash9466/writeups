@@ -35,7 +35,7 @@ Key Issues:
 
 This video demonstrates that Device A's session remained fully authenticated and was able to change the account password and email address after 2FA was enrolled on Device B.
 
-[Watch Full PoC](PASTE_YOUR_VIDEO_LINK_HERE)
+[Watch Full PoC](https://youtu.be/-dl4Ttxf3yQ?si=xdbbiF8allNcn-b-)
 
 ### Steps Performed:
 
